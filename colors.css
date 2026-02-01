@@ -13,7 +13,7 @@
 
   --mtg-inverse_on_surface: #2d3135;
 
-  --mtg-inverse_primary: #2e628c;
+  --mtg-inverse_primary: #2b638b;
 
   --mtg-inverse_surface: #e0e2e8;
 
@@ -23,63 +23,63 @@
 
   --mtg-on_error_container: #ffdad6;
 
-  --mtg-on_primary: #003352;
+  --mtg-on_primary: #003351;
 
-  --mtg-on_primary_container: #cde5ff;
+  --mtg-on_primary_container: #cce5ff;
 
-  --mtg-on_primary_fixed: #001d32;
+  --mtg-on_primary_fixed: #001d31;
 
-  --mtg-on_primary_fixed_variant: #0b4a72;
+  --mtg-on_primary_fixed_variant: #064b72;
 
-  --mtg-on_secondary: #233240;
+  --mtg-on_secondary: #23323f;
 
-  --mtg-on_secondary_container: #d5e4f6;
+  --mtg-on_secondary_container: #d4e4f6;
 
-  --mtg-on_secondary_fixed: #0e1d2a;
+  --mtg-on_secondary_fixed: #0d1d2a;
 
-  --mtg-on_secondary_fixed_variant: #3a4857;
+  --mtg-on_secondary_fixed_variant: #394857;
 
   --mtg-on_surface: #e0e2e8;
 
-  --mtg-on_surface_variant: #c2c7cf;
+  --mtg-on_surface_variant: #c2c7ce;
 
-  --mtg-on_tertiary: #382a49;
+  --mtg-on_tertiary: #372a4a;
 
-  --mtg-on_tertiary_container: #eedcff;
+  --mtg-on_tertiary_container: #eddcff;
 
-  --mtg-on_tertiary_fixed: #221533;
+  --mtg-on_tertiary_fixed: #221534;
 
-  --mtg-on_tertiary_fixed_variant: #4f4061;
+  --mtg-on_tertiary_fixed_variant: #4e4162;
 
   --mtg-outline: #8c9198;
 
   --mtg-outline_variant: #42474e;
 
-  --mtg-primary: #9acbfa;
+  --mtg-primary: #99ccf9;
 
-  --mtg-primary_container: #0b4a72;
+  --mtg-primary_container: #064b72;
 
-  --mtg-primary_fixed: #cde5ff;
+  --mtg-primary_fixed: #cce5ff;
 
-  --mtg-primary_fixed_dim: #9acbfa;
+  --mtg-primary_fixed_dim: #99ccf9;
 
   --mtg-scrim: #000000;
 
-  --mtg-secondary: #b9c8da;
+  --mtg-secondary: #b8c8da;
 
-  --mtg-secondary_container: #3a4857;
+  --mtg-secondary_container: #394857;
 
-  --mtg-secondary_fixed: #d5e4f6;
+  --mtg-secondary_fixed: #d4e4f6;
 
-  --mtg-secondary_fixed_dim: #b9c8da;
+  --mtg-secondary_fixed_dim: #b8c8da;
 
   --mtg-shadow: #000000;
 
-  --mtg-source_color: #44494f;
+  --mtg-source_color: #688cac;
 
   --mtg-surface: #101418;
 
-  --mtg-surface_bright: #36393e;
+  --mtg-surface_bright: #363a3e;
 
   --mtg-surface_container: #1c2024;
 
@@ -93,16 +93,16 @@
 
   --mtg-surface_dim: #101418;
 
-  --mtg-surface_tint: #9acbfa;
+  --mtg-surface_tint: #99ccf9;
 
   --mtg-surface_variant: #42474e;
 
-  --mtg-tertiary: #d2bfe7;
+  --mtg-tertiary: #d1bfe7;
 
-  --mtg-tertiary_container: #4f4061;
+  --mtg-tertiary_container: #4e4162;
 
-  --mtg-tertiary_fixed: #eedcff;
+  --mtg-tertiary_fixed: #eddcff;
 
-  --mtg-tertiary_fixed_dim: #d2bfe7;
+  --mtg-tertiary_fixed_dim: #d1bfe7;
 
 }
